@@ -8,4 +8,4 @@ Youtube Video: https://www.youtube.com/watch?time_continue=3&v=uMswafAiQB0
 Team Members
 1) Isha Kalra (https://github.com/ishakalra)
 2) Kanika Saini (https://github.com/kanikasaini)
-3) Lavina Jaini (https://github.com/lavinajain)
+3) Lavina Jain (https://github.com/lavinajain)
